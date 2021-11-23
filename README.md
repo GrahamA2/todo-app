@@ -18,6 +18,5 @@ Run via command line
 
 Fork, improve and PR. ;-)
 
-# Questions / Comments
-
-Contact me at [http://dustin.schultz.io](http://dustin.schultz.io/)
+# Modifications to the base version
+* Added security to endpoints except health
