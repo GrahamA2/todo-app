@@ -20,3 +20,4 @@ Fork, improve and PR. ;-)
 
 # Modifications to the base version
 * Added security to endpoints except health
+* Disabled tests
